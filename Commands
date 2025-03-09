@@ -1,0 +1,21 @@
+ls    : lists (shows) all the files and directories
+pwd   : tells me which directory I am currently in
+cd    : changes the directory (goes to the directory I mention)
+mkdir : creates a new directory
+mv    : renames the file or directory
+cat   : Gives me what is written in the file
+cp    : copies the file or directory
+vi    : creates a file
+rmdir : deletes empty directory, not occupied
+rm    : deletes the file in a directory (does not delete a directory)
+file  : gives the type of the file, ASCII or xls, pdf, word... (Even tells you about directory)
+ls | grep : tell me whether the file or directory is present or not
+wq    : saves and quits the file after you edit it
+i     : insert content int he file, like typing something
+Shift + i : comes back from the file editing
+history: Gives me the history of all the commands i have given
+cd .. : goes back to the previous path
+curl [URL] : gives the entire UI code for the website you mentioned in the URL, include www. also before
+             for instance, you can just type curl www.google.com to print the HTML code for it, or example.com
+clear : clears the code in the terminal
+nslookup [URL] : gives the ip of the webiste you mentioned in the URL
